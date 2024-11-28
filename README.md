@@ -1,4 +1,4 @@
-# Vize-Odev-Yigitatayucel
+# Vize-Odev Yigit Ata YÜcel
 Öğrenci ve Ders Yönetim Sistemi
 Bu proje, bir öğrenci ve ders yönetim sistemini konsol uygulaması olarak geliştirir. Kullanıcılar, ders ve öğrenci kayıtları oluşturabilir, dersleri listeleyebilir ve öğrencilere ders seçtirebilir.
 
