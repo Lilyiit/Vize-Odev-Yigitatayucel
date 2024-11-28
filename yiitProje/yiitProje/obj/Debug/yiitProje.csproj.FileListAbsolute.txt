@@ -1,0 +1,7 @@
+C:\Users\araba\source\repos\yiitProje\yiitProje\obj\Debug\yiitProje.csproj.AssemblyReference.cache
+C:\Users\araba\source\repos\yiitProje\yiitProje\obj\Debug\yiitProje.csproj.CoreCompileInputs.cache
+C:\Users\araba\source\repos\yiitProje\yiitProje\bin\Debug\yiitProje.exe.config
+C:\Users\araba\source\repos\yiitProje\yiitProje\bin\Debug\yiitProje.exe
+C:\Users\araba\source\repos\yiitProje\yiitProje\bin\Debug\yiitProje.pdb
+C:\Users\araba\source\repos\yiitProje\yiitProje\obj\Debug\yiitProje.exe
+C:\Users\araba\source\repos\yiitProje\yiitProje\obj\Debug\yiitProje.pdb
